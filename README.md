@@ -27,8 +27,8 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 
 **1. Clone o Repositório**
 ```bash
-git clone [https://github.com/SEU-USUARIO/academia_api.git](https://github.com/SEU-USUARIO/academia_api.git)
-cd academia_api
+https://github.com/IgorFBastos/TrabalhoFinal_DB.git
+cd TrabalhoFinal_DB
 ```
 
 **2. Instale as Dependências**
