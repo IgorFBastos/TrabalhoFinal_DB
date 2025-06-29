@@ -14,12 +14,12 @@ Este é um projeto de um sistema de gerenciamento para academias, desenvolvido e
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js
 - **Banco de Dados:** PostgreSQL
 - **IA Generativa:** API da OpenAI
 - **Interface de Console:** `prompt-sync`, `cli-table3`
-- **Visualização de Dados:** `quickchart-js`, `open`
-- **Ambiente:** `dotenv`, `nodemon`
+- **Visualização de Dados:** `quickchart-js`
+- **Ambiente:** `dotenv`
 
 ## ⚙️ Como Executar o Projeto
 
